@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623321020172",
+    "project_id": "trabajon3edu",
+    "storage_bucket": "trabajon3edu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623321020172:android:6ecd5884970642c4f73b29",
+        "android_client_info": {
+          "package_name": "cl.ipvg.trabajon3edu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9om1iFXxOtOD_Ntas5f0wdSST-bmT46I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
